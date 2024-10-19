@@ -1,0 +1,300 @@
+เวอร์ชัน?xml="1.0" encoding="utf-8"?>
+ฟีด xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    คำถามยอดนิยม - Stack Exchange
+    <link rel="self" href="https://stackexchange.com/feeds/questions" type="application/atom+xml" />
+    <ลิงค์ rel="alternate" href="https://stackexchange.com/" type="text/html" />
+    <subtitle>30 คำถามยอดนิยมจาก stackexchange.com</subtitle>
+    <อัปเดต>2024-10-19T19:05:18Z</อัปเดต>
+    https://stackexchange.com/feeds/questions ครับ
+    <creativeCommons:license>https://creativecommons.org/licenses/by-sa/4.0/rdf</creativeCommons:license>
+    <รายการ>
+        <id>https://scifi.stackexchange.com/questions/292397/is-to-fenders-a-typo-in-lords-and-ladies-by-terry-pratchett</id>
+        <re:อันดับแผนการ="https://stackexchange.com">24</re:อันดับแผนการ="https://stackexchange.com">24</re:อันดับ>
+        ความประหลาดใจของ Fender เกิดจากการพิมพ์ผิดในเพลง Lords and Ladies ของ Terry Pratchett หรือไม่? scifi.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://scifi.stackexchange.com/feeds/tags" term="discworld" />
+        <หมวดหมู่ scheme="http://scifi.stackexchange.com/feeds/tags" term="ลอร์ดแอนด์เลดี้" />
+        <ผู้แต่ง>
+            <ชื่อ>บ็อบ1</ชื่อ>
+            ภาษาไทย:https://scifi.stackexchange.com/users/119274/bob1
+        </ผู้เขียน>
+        <link rel="alternate" href="https://scifi.stackexchange.com/questions/292397/is-to-fenders-amazement-a-typo-in-lords-and-ladies-by-terry-pratchett" />
+        <เผยแพร่>2024-10-19T00:59:32Z</เผยแพร่>
+        <อัปเดต>19-10-2024T13:54:16Z</อัปเดต>
+        <สรุปประเภท="html">
+            ในฉบับ Lords and Ladies ของ Terry Pratchett ที่ฉันอ่าน มีชื่อแปลกๆ อยู่บนหน้า 121 (สำนักพิมพ์ Corgi ฉบับปี 2013 เวอร์ชันมีภาพประกอบของ Kirby; ISBN: 978-0-552-16752-9 เท่าที่ฉันทราบ ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://philosophy.stackexchange.com/questions/118124/ทำไมการวัดปริมาณที่มีอยู่จึงดูเหมือนจะทำนายได้</id>
+        <re:อันดับโครงการ="https://stackexchange.com">17</re:อันดับ>
+        <title type="text">เหตุใดการวัดเชิงอัตถิภาวนิยมจึงดูเหมือนเป็นการทำนายล่วงหน้า – philosophy.stackexchange.com</title>
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="การมีอยู่" />
+        <หมวดหมู่ scheme="http://philosophy.stackexchange.com/feeds/tags" term="set-theory" />
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="การวัดปริมาณ" />
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="ระบบที่เป็นทางการ" />
+        <หมวดหมู่ scheme="http://philosophy.stackexchange.com/feeds/tags" term="variable-binding" />
+        <ผู้แต่ง>
+            <name>จูเลียส แฮมิลตัน</name>
+            <uri>https://philosophy.stackexchange.com/users/72812/julius-hamilton</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://philosophy.stackexchange.com/questions/118124/ทำไมการอธิบายเชิงปริมาณจึงดูเหมือนจะเป็นการทำนาย" />
+        <เผยแพร่>18-10-2024T20:50:20Z</เผยแพร่>
+        <อัปเดต>19/10/2024 17:39:51 น.</อัปเดต>
+        <สรุปประเภท="html">
+            นี่เป็นคำถามง่ายๆ ที่อาจมีคำตอบง่ายๆ เมื่อเราใช้ตัวระบุปริมาณสากล ∀ การไม่รวมตัวแปรและสูตร ∀ x, Φ ดูเหมือนจะไม่ถูกต้องตามหลักไวยากรณ์ ในภาษาธรรมชาติ ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://security.stackexchange.com/questions/279193/when-might-it-not-be-a-good-idea-to-reset-your-password-immediately</id>
+        <re:อันดับแผนการ="https://stackexchange.com">15</re:อันดับ>
+        เมื่อใดจึงจะไม่ควรรีเซ็ตรหัสผ่านทันที? – security.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://security.stackexchange.com/feeds/tags" term="รหัสผ่าน" />
+        <ผู้แต่ง>
+            <name>เนเน่อเนโอ</name>
+            ภาษาไทย:https://security.stackexchange.com/users/12809/nneonneo
+        </ผู้เขียน>
+        <link rel="alternate" href="https://security.stackexchange.com/questions/279193/when-might-it-not-be-a-good-idea-to-reset-your-password-immediately" />
+        <เผยแพร่>2024-10-18T20:13:59Z</เผยแพร่>
+        <อัปเดต>19-10-2024T10:04:27Z</อัปเดต>
+        <สรุปประเภท="html">
+            ลองสมมติว่าฉันเป็นแฮกเกอร์ผู้ชั่วร้าย และฉันเพิ่งเจาะเข้าเว็บไซต์ ขโมยรหัสผ่าน bcrypt ทั้งหมด และทำลายเว็บไซต์นั้นเพราะ lulz แต่เนื่องจากเป็น bcrypt ฉันจึงไม่สามารถถอดรหัสอะไรได้เลย ฉันรู้สึกว่า...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://codegolf.stackexchange.com/questions/276184/แปลงตัวเลขสะกดภาษาฝรั่งเศสเป็นจำนวนเต็ม</id>
+        <re:อันดับโครงการ="https://stackexchange.com">13</re:อันดับ>
+        <title type="text">แปลงตัวเลขสะกดภาษาฝรั่งเศสเป็นจำนวนเต็ม – codegolf.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://codegolf.stackexchange.com/feeds/tags" term="รหัสกอล์ฟ" />
+        <หมวดหมู่ scheme="http://codegolf.stackexchange.com/feeds/tags" term="สตริง" />
+        <หมวดหมู่ scheme="http://codegolf.stackexchange.com/feeds/tags" term="number" />
+        <หมวดหมู่ scheme="http://codegolf.stackexchange.com/feeds/tags" term="ภาษาธรรมชาติ" />
+        <ผู้แต่ง>
+            <name>ฟูวี</name>
+            <uri>https://codegolf.stackexchange.com/users/116582/fhuvi</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://codegolf.stackexchange.com/questions/276184/แปลงตัวเลขสะกดภาษาฝรั่งเศสเป็นจำนวนเต็ม" />
+        <เผยแพร่>18-10-2024T10:07:48Z</เผยแพร่>
+        <อัปเดต>19/10/2024 17:07:57 น.</อัปเดต>
+        <สรุปประเภท="html">
+            กำหนดสตริงที่เป็นตัวเลขระหว่าง 0 ถึง 100 (รวมอยู่ด้วย) สะกดเป็นภาษาฝรั่งเศส เขียนฟังก์ชัน (หรือโปรแกรมทั้งหมด) ที่แสดงตัวเลขที่สอดคล้องกัน รายการกรณีทดสอบทั้งหมด: ศูนย์ ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://academia.stackexchange.com/questions/214346/my-previous-advisor-wrote-that-im-not-creative-in-his-recommendation-letter</id>
+        <re:อันดับแผนการ="https://stackexchange.com">12</re:อันดับ>
+        ที่ปรึกษาคนก่อนของฉันเขียนว่าฉันไม่มีความคิดสร้างสรรค์ในจดหมายแนะนำของเขาที่ – academia.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://academia.stackexchange.com/feeds/tags" term="การรับเข้าเรียนระดับบัณฑิตศึกษา" />
+        <หมวดหมู่ scheme="http://academia.stackexchange.com/feeds/tags" term="แอปพลิเคชัน" />
+        <ผู้แต่ง>
+            <name>บิริโบร่า</name>
+            <uri>https://academia.stackexchange.com/users/202258/biribora</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://academia.stackexchange.com/questions/214346/my-previous-advisor-wrote-that-im-not-creative-in-his-recommendation-letter" />
+        <เผยแพร่>18-10-2024T04:02:30Z</เผยแพร่>
+        <อัปเดต>19-10-2024T16:32:33Z</อัปเดต>
+        <สรุปประเภท="html">
+            เมื่อประมาณหนึ่งปีก่อน ฉันได้สมัครเข้าเรียนในระดับปริญญาโท และได้ขอให้ที่ปรึกษาของฉันในระดับปริญญาตรีสาขาวิทยาศาสตร์เขียนจดหมายรับรองให้ฉัน เขาบอกว่าตกลง หลังจากนั้น ฉันก็พบจดหมายรับรองของเขาในระบบการสมัคร โดยถามเพื่อนคนหนึ่งของฉันว่า ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://travel.stackexchange.com/questions/191834/ธุรกิจญี่ปุ่น-ตรวจสอบ-เพื่อ-ลงจอด-สติ๊กเกอร์</id>
+        <re:อันดับแผนการ="https://stackexchange.com">10</re:อันดับ>
+        <title type="text">ธุรกิจญี่ปุ่นกำลังตรวจสอบสติกเกอร์ลงจอด – travel.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://travel.stackexchange.com/feeds/tags" term="ศุลกากรและการย้ายถิ่นฐาน" />
+        <category scheme="http://travel.stackexchange.com/feeds/tags" term="ญี่ปุ่น" />
+        <ผู้แต่ง>
+            <ชื่อ>สตันกิตี้สตันส์</ชื่อ>
+            <uri>https://travel.stackexchange.com/users/173362/stonkitystonks</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://travel.stackexchange.com/questions/191834/ธุรกิจญี่ปุ่น-ตรวจสอบ-สำหรับ-สติกเกอร์-แลนดิ้ง" />
+        <เผยแพร่>19-10-2024T09:14:30Z</เผยแพร่>
+        <อัปเดต>2024-10-19T17:01:07Z</อัปเดต>
+        <สรุปประเภท="html">
+            เป็นครั้งแรกที่เดินทางไปญี่ปุ่นและจนถึงตอนนี้ ฉันได้พบกับธุรกิจเอกชนที่ขอตรวจดูหนังสือเดินทางของฉันเพียงแค่ 2 ครั้งเท่านั้น ครั้งแรกคือคลินิกเอกชนที่เราไปเยี่ยมเพื่อรักษาเท้าหัก (เรื่องยาว, ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://space.stackexchange.com/questions/67155/ข้อดีของการจับจรวดบูสเตอร์พร้อมหอคอยคืออะไร</id>
+        <re:อันดับแผนการ="https://stackexchange.com">10</re:อันดับ>
+        <title type="text">ข้อดีของการจับจรวดบูสเตอร์ด้วยหอคอยคืออะไร? – space.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://space.stackexchange.com/feeds/tags" term="spacex" />
+        <หมวดหมู่ scheme="http://space.stackexchange.com/feeds/tags" term="ลงจอด" />
+        <ผู้แต่ง>
+            <name>เมสัน วีลเลอร์</name>
+            <uri>https://space.stackexchange.com/users/10171/เมสัน-วีลเลอร์</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://space.stackexchange.com/questions/67155/ข้อได้เปรียบของการจับจรวดบูสเตอร์พร้อมหอคอยคืออะไร" />
+        <เผยแพร่>2024-10-17T01:55:43Z</เผยแพร่>
+        <อัปเดต>2024-10-19T17:02:19Z</อัปเดต>
+        <สรุปประเภท="html">
+            SpaceX ตกเป็นข่าวเมื่อไม่นานนี้จากการใช้หอคอยเพื่อจับจรวดขับดันหลังจากปล่อยจรวด แม้ว่านี่จะถือเป็นความสำเร็จทางเทคนิคครั้งสำคัญ แต่มีใครอธิบายเป็นภาษาชาวบ้านได้ไหมว่าทำไมพวกเขาจึงใช้หอคอยนี้...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://cooking.stackexchange.com/questions/129390/วิธีทำฉันเชื่องการกัดลิ้นในมื้ออาหารจากมะเขือเทศของฉัน</id>
+        <re:อันดับแผนการ="https://stackexchange.com">10</re:อันดับ>
+        ฉันจะควบคุม "อาการลิ้นติดลิ้น" ในมื้ออาหารที่มีมะเขือเทศเป็นหลักได้อย่างไร – cooking.stackexchange.com</title>
+        <category scheme="http://cooking.stackexchange.com/feeds/tags" term="ซอส" />
+        <category scheme="http://cooking.stackexchange.com/feeds/tags" term="มะเขือเทศ" />
+        <category scheme="http://cooking.stackexchange.com/feeds/tags" term="ลาซานญ่า" />
+        <category scheme="http://cooking.stackexchange.com/feeds/tags" term="สปาเก็ตตี้" />
+        <category scheme="http://cooking.stackexchange.com/feeds/tags" term="กรด" />
+        <ผู้แต่ง>
+            <name>NjyReading</name>
+            ภาษาไทย: https://cooking.stackexchange.com/users/130887/njyreading
+        </ผู้เขียน>
+        <link rel="alternate" href="https://cooking.stackexchange.com/questions/129390/วิธีทำฉันเชื่องลิ้นกัดในมื้ออาหารจากมะเขือเทศของฉัน" />
+        <เผยแพร่>2024-10-17T21:25:40Z</เผยแพร่>
+        <อัปเดต>19-10-2024T10:16:41Z</อัปเดต>
+        <สรุปประเภท="html">
+            ลาซานญ่า พายเนื้อแกะ ซอสสปาเก็ตตี้... อาหารที่ฉันกินกับซอสมะเขือเทศทุกจานจะมีรสเปรี้ยวๆ เผ็ดๆ หน่อย เป็นเพราะผลิตภัณฑ์มะเขือเทศกระป๋องหรือเปล่า ฉันจะบรรเทาปัญหานี้ได้อย่างไร"เปลี่ยน...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://mathematica.stackexchange.com/questions/307913/แปลงรายการสตริงของฟอร์ม 2 xy 4 x 5y 5 x 7y</id>
+        <re:อันดับแผนการ="https://stackexchange.com">9</re:อันดับ>
+        <title type="text">แปลงรายการสตริงในรูปแบบ {{2 "x" +"y"->4 "x" + 5"y"},{5 "x" ->7"y"}, ...}, เป็น {{"2 x +y"->"4 x +5 y"},{"5 x" ->"7 y"},...} – mathematica.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://mathematica.stackexchange.com/feeds/tags" term="การจับคู่รูปแบบ" />
+        <หมวดหมู่ scheme="http://mathematica.stackexchange.com/feeds/tags" term="การจัดการสตริง" />
+        <ผู้แต่ง>
+            <name>ฟลอริน</name>
+            <uri>https://mathematica.stackexchange.com/users/54979/ฟลอริน</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://mathematica.stackexchange.com/questions/307913/แปลงรายการสตริงของฟอร์ม 2xy-4-x-5y-5-x-7y" />
+        <เผยแพร่>19-10-2024T10:23:26Z</เผยแพร่>
+        <อัปเดต>19-10-2024T10:28:25Z</อัปเดต>
+        <สรุปประเภท="html">
+            แปลงรายการสตริงในรูปแบบ
+{{2 &quot;x&quot; &quot;ใช่&quot;-&gt;4 &quot;x&quot; + 5"ใช่&quot;},{5 "x&quot; -&gt;7&quot;y&quot;}, ...}
+
+to
+{{&quot;2 x +y&quot;-& gt;&quot;4 x +5 ใช่&...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://diy.stackexchange.com/questions/308717/ประเภทของสายพานคืออะไร</id>
+        <re:อันดับแผนการ="https://stackexchange.com">9</re:อันดับ>
+        <title type="text">นี่คือสายพานประเภทไหน – diy.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://diy.stackexchange.com/feeds/tags" term="เลื่อย" />
+        <ผู้แต่ง>
+            <ชื่อ>แสง</ชื่อ>
+            <uri>https://diy.stackexchange.com/users/55526/light</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://diy.stackexchange.com/questions/308717/ประเภทของสายพานคืออะไร" />
+        <เผยแพร่>2024-10-18T14:39:21Z</เผยแพร่>
+        <อัปเดต>18-10-2024 20:58:59 น.</อัปเดต>
+        <สรุปประเภท="html">
+            ฉันเปิดเลื่อยแผงเลื่อนและเห็นสายพานและรอก ฉันคิดว่าสายพานหายไปสองสามเส้น ใครทราบไหมว่าฉันต้องใช้สายพานประเภทใด
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://academia.stackexchange.com/questions/214359/คุณตอบสนองต่อนักเรียนอย่างไรเมื่อบ่นว่าคำถามฝึกหัดเป็นเรื่องสำคัญทั้งคู่</id>
+        <re:อันดับแผนการ="https://stackexchange.com">9</re:อันดับ>
+        คุณจะตอบสนองต่อนักเรียนที่บ่นว่าคำถามฝึกฝนไม่เพียงพอและง่ายเกินไปอย่างไร – academia.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://academia.stackexchange.com/feeds/tags" term="การสอน" />
+        <หมวดหมู่ scheme="http://academia.stackexchange.com/feeds/tags" term="นักศึกษาระดับปริญญาตรี" />
+        <หมวดหมู่ scheme="http://academia.stackexchange.com/feeds/tags" term="การสอบ" />
+        <ผู้แต่ง>
+            <ชื่อ>user2574706</ชื่อ>
+            <uri>https://academia.stackexchange.com/users/66853/user2574706</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://academia.stackexchange.com/questions/214359/how-do-you-respond-to-students-complaining-that-practice-questions-are-both-insu" />
+        <เผยแพร่>2024-10-18T12:51:38Z</เผยแพร่>
+        <อัปเดต>19-10-2024T05:53:54Z</อัปเดต>
+        <สรุปประเภท="html">
+            เนื่องจากฉันเป็นอาจารย์ในระดับปริญญาตรีมาเป็นเวลา 6 ปี ฉันจึงได้รับคำร้องเรียนจากนักศึกษาอยู่เสมอเกี่ยวกับเรื่องต่อไปนี้: คำถามฝึกฝนที่ฉันให้นั้นง่ายเกินไปและไม่ตรงกับความยาก ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        ภาษาไทย: https://tex.stackexchange.com/questions/728950/dashed-rectangle-in-circuitikz
+        <re:อันดับแผนการ="https://stackexchange.com">9</re:อันดับ>
+        <title type="text">สี่เหลี่ยมผืนผ้าเส้นประใน CircuiTikZ – tex.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://tex.stackexchange.com/feeds/tags" term="tikz-pgf" />
+        <หมวดหมู่ scheme="http://tex.stackexchange.com/feeds/tags" term="circuitikz" />
+        <ผู้แต่ง>
+            <name>วสซูฟสซู</name>
+            <uri>https://tex.stackexchange.com/users/349066/vszuvszu</uri>
+        </ผู้เขียน>
+        ลิงก์ย้อนกลับ
+        <เผยแพร่>19-10-2024T09:56:35Z</เผยแพร่>
+        <อัปเดต>19/10/2024 12:14:43 น.</อัปเดต>
+        <สรุปประเภท="html">
+            ฉันกำลังพยายามวาดวงจรต่อไปนี้: ฉันกำลังทำงานกับมันและนี่คือผลงานของฉัน: \documentclass[border=10pt]{standalone}
+\usepackage[siunitx]{circuitikz}
+\begin{document}
+\begin{tikzpicture}
+ ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://worldbuilding.stackexchange.com/questions/262427/วิธีการต่อสู้แบบทางเลือกคืออะไรถ้าการระเบิดเหมือนในปืนนั้นอันตรายเกินไป</id>
+        <re:อันดับโครงการ="https://stackexchange.com">8</re:อันดับ>
+        <title type="text">มีวิธีการต่อสู้แบบอื่นใดบ้างหากการระเบิดด้วยปืนเป็นอันตรายเกินไปเนื่องจากแก๊สระเบิด? – worldbuilding.stackexchange.com</title>
+        <หมวดหมู่ scheme="http://worldbuilding.stackexchange.com/feeds/tags" term="สงคราม" />
+        <category scheme="http://worldbuilding.stackexchange.com/feeds/tags" term="อาวุธ" />
+        <หมวดหมู่ scheme="http://worldbuilding.stackexchange.com/feeds/tags" term="การระเบิด" />
+        <ผู้แต่ง>
+            <name>อู๊กผู้ทำลายล้าง</name>
+            <uri>https://worldbuilding.stackexchange.com/users/111307/oog-the-destroyer</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://worldbuilding.stackexchange.com/questions/262427/what-are-alternative-methods-of-combat-if-explosions-like-in-guns-are-too-danger" />
+        <เผยแพร่>2024-10-16T16:39:07Z</เผยแพร่>
+        <อัปเดต>18-10-2024T14:22:55Z</อัปเดต>
+        <สรุปประเภท="html">
+            วิธีการต่อสู้แบบทางเลือกมีอะไรบ้าง หากการระเบิดเช่นปืนเป็นอันตรายเกินไปที่จะใช้เพราะแก๊สระเบิด มีสนามเพลาะและหุบเขาในโลกของฉันที่บรรยากาศเต็มไปด้วย...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://english.stackexchange.com/questions/626770/ค่าไวยากรณ์คืออะไร</id>
+        <re:อันดับโครงการ="https://stackexchange.com">8</re:อันดับ>
+        <title type="text">คุณค่าทางไวยากรณ์คืออะไร? – english.stackexchange.com</title>
+        <category scheme="http://english.stackexchange.com/feeds/tags" term="คำสันธาน" />
+        <category scheme="http://english.stackexchange.com/feeds/tags" term="คำสันธานประสานงาน" />
+        <หมวดหมู่ scheme="http://english.stackexchange.com/feeds/tags" term="การทำงานแบบคู่ขนาน" />
+        <หมวดหมู่ scheme="http://english.stackexchange.com/feeds/tags" term="คำสันธานคู่กัน" />
+        <ผู้แต่ง>
+            <name>คุชราต ปริญญาเอก</name>
+            ภาษาไทย: https://english.stackexchange.com/users/565017/qu%e1%bb%91c-anh-ph%e1%ba%a1m
+        </ผู้เขียน>
+        <link rel="alternate" href="https://english.stackexchange.com/questions/626770/what-is-grammatical-value" />
+        <เผยแพร่>2024-10-19T07:24:15Z</เผยแพร่>
+        <อัปเดต>19-10-2024T08:01:35Z</อัปเดต>
+        <สรุปประเภท="html">
+            คำสันธานประสานและคำสันธานสัมพันธ์กันเชื่อมโยงองค์ประกอบที่มีมูลค่าทางไวยากรณ์เท่ากันหรือไม่ "มูลค่าทางไวยากรณ์" หมายถึงอะไร และ "มูลค่าทางไวยากรณ์เท่ากัน" ถูกเชื่อมโยงด้วยคำสันธานทั้งสองหรือไม่
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://philosophy.stackexchange.com/questions/118139/ความเชื่อเท็จเป็นสิ่งอันตราย</id>
+        <re:อันดับโครงการ="https://stackexchange.com">8</re:อันดับ>
+        ความเชื่อที่ผิดๆ เป็นสิ่งอันตรายหรือไม่? – philosophy.stackexchange.com</title>
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="จริยธรรม" />
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="ความเชื่อ" />
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="ปรัชญาของจิตวิทยา" />
+        <category scheme="http://philosophy.stackexchange.com/feeds/tags" term="จิตวิทยา-ญาณวิทยา" />
+        <หมวดหมู่ scheme="http://philosophy.stackexchange.com/feeds/tags" term="doxastic-attitude" />
+        <ผู้แต่ง>
+            <ชื่อ>โลแกน เจ. ฟิชเชอร์</ชื่อ>
+            <uri>https://philosophy.stackexchange.com/users/82900/logan-j-fisher</uri>
+        </ผู้เขียน>
+        <link rel="alternate" href="https://philosophy.stackexchange.com/questions/118139/is-a-false-belief-itself-a-harm" />
+        <เผยแพร่>2024-10-19T03:40:20Z</เผยแพร่>
+        <อัปเดต>19-10-2024T16:28:58Z</อัปเดต>
+        <สรุปประเภท="html">
+            จะไม่มีการให้ตัวอย่างที่เจาะจง เนื่องจากข้อมูลเฉพาะที่นี่ไม่ใช่ประเด็น ฉันไม่ได้พูดถึงผลที่ตามมาจากการมีความเชื่อที่ผิดอย่างไม่มีอคติ หรือการสื่อสารความเชื่อเหล่านั้น (โดยรู้หรือ ...
+        </สรุป>
+    </รายการ>
+    <รายการ>
+        <id>https://bicycles.stackexchange.com/questions/95682/มีวิธีที่ปลอดภัยในการพาสุนัขเดินเล่นขณะขี่จักรยานหรือไม่</id>
+        <re:อันดับโครงการ="https://stackexchange.com">8</re:อันดับ>
+        มีวิธีที่ปลอดภัยในการพาสุนัขเดินเล่นขณะขี่จักรยานหรือไม่? – bicycles.stackexchange.com</title>
+        <category scheme="http://bicycles.stackexchange.com/feeds/tags" term="สุนัข" />
+        <category scheme="http://bicycles.stackexchange.com/feeds/tags" term="การขี่" />
+        <ผู้แต่ง>
+            <name>เดวิด ดี</name>
+            เดวิด-ดีhttps://bicycles.stackexchange.com/users/41662/เดวิด-ดี
+        </ผู้เขียน>
+        <link rel="alternate" href="https://bicycles.stackexchange.com/questions/95682/มีวิธีที่ปลอดภัยในการพาสุนัขเดินเล่นขณะขี่จักรยาน" />
+        <เผยแพร่>2024-10-18T13:04:59Z</เผยแพร่>
+        <อัปเดต>19-10-2024T03:54:20Z</อัปเดต>
+        <สรุปประเภท="html">
+            คุณรู้จักสุนัขที่ได้รับการฝึกฝนมาเป็นอย่างดีจนเดินเคียงข้างเจ้าของพร้อมกับจู
